@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>953D3926-8646-4854-9028-B845B0B415F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OSXGLEssentials</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DDDC20ECE9E5DA525D364A8CEA03644D09167AAF</key>
+		<string>https://github.com/DevNulPavel/OpenGL_experiments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OSXGLEssentials.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DDDC20ECE9E5DA525D364A8CEA03644D09167AAF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DevNulPavel/OpenGL_experiments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DDDC20ECE9E5DA525D364A8CEA03644D09167AAF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DDDC20ECE9E5DA525D364A8CEA03644D09167AAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GLEssentials_25_deffered_shader_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
